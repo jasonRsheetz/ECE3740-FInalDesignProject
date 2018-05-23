@@ -1,0 +1,37 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LEDG1",
+					"strict" : false
+				},
+				{
+					"name" : "LEDG2",
+					"strict" : false
+				},
+				{
+					"name" : "LEDY1",
+					"strict" : false
+				},
+				{
+					"name" : "LEDY2",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR1",
+					"strict" : false
+				},
+				{
+					"name" : "LEDR2",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
